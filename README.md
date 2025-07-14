@@ -1,4 +1,4 @@
-# Immersive VR Arcade Game OCEAN ADVENTURE for Oculus Quest 2
+# Immersive VR Arcade Game "OCEAN ADVENTURE" for Oculus Quest 2
 
 ## Overview
 This project is a fast-paced arcade-style Virtual Reality (VR) game developed for the **Oculus Quest 2** platform using the **Unity engine**. Players defend themselves against waves of projectiles using melee (a saber) and ranged (a flintlock pistol) weapons, while avoiding explosive hazards in a dynamic virtual environment.
