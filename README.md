@@ -47,7 +47,7 @@ The game emphasizes immersive, skill-based gameplay with intuitive motion contro
 - Avoid explosive bombs to survive longer.
 - Access the **Tutorial** option in the main menu for detailed gameplay instructions.
 
-## Future Work
+## Future Work (Can Be Improved)
 - Multiplayer modes (cooperative and competitive).
 - Narrative-driven campaigns.
 - Cross-platform support (HTC Vive, Valve Index).
@@ -58,7 +58,7 @@ The game emphasizes immersive, skill-based gameplay with intuitive motion contro
 This project builds on various research and open-source contributions, including:
 - Unity XR Toolkit documentation
 - Oculus SDK guides
-- Open-source Pirate Rush VR project
+- Open-source project
 - Research papers on VR game design and user experience
 
 
