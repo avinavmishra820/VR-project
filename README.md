@@ -19,7 +19,7 @@ The game emphasizes immersive, skill-based gameplay with intuitive motion contro
 - **Oculus Quest 2 SDK**
 - **Unity XR Interaction Toolkit**
 - **C# Scripting**
-- **Open-source assets** (Pirate Rush project adaptation)
+- **Open-source assets** (From Open-source PirateRush project adaptation)
 
 ## Installation & Setup
 
@@ -58,7 +58,11 @@ The game emphasizes immersive, skill-based gameplay with intuitive motion contro
 This project builds on various research and open-source contributions, including:
 - Unity XR Toolkit documentation
 - Oculus SDK guides
-- Open-source project
+- Inspired By Open-source project 
 - Research papers on VR game design and user experience
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
