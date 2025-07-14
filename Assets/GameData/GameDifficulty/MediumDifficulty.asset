@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6c11cebd7df7c40a87e40457b6ecca, type: 3}
+  m_Name: MediumDifficulty
+  m_EditorClassIdentifier: 
+  <DifficultyName>k__BackingField: Medium
+  <PerfectSliceTolerance>k__BackingField: 0.1
+  <PerfectShootChance>k__BackingField: 0.2
+  <TowerCount>k__BackingField: 3
+  <MaxHealth>k__BackingField: 2
+  <BombToNeutralRatio>k__BackingField: 0.09
+  <SpecialOverrideChance>k__BackingField: 0.035
+  <GlobalComboChance>k__BackingField: 0.08
+  <MultiplierIncrement>k__BackingField: 0.2
+  <DecrementPointsOnMiss>k__BackingField: 0
+  <DecrementMultiplierOnMiss>k__BackingField: 1
+  <CountOf25msWaits>k__BackingField:
+    _bottomBound: 14
+    _upperBound: 25

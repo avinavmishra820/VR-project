@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679327de6d365894f953ca42d192aa8f, type: 3}
+  m_Name: CannonTutorial
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: Cannons
+  <Text>k__BackingField: The cannons you encounter on islands will try to blast you
+    with different types of projectiles, so be careful!
+  <Image>k__BackingField: {fileID: 21300000, guid: 237c90a1b5850bb4fa78b0a26ecf54a8, type: 3}
